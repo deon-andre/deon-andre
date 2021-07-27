@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @deon-andre
--
-- 📫 I'm founder of 4EVERLAND
+- 👋 Hi, I’m @deon-andre, founder of 4EVERLAND
+- 📫 Transferring  to Web3.0
 
 <!---
 deon-andre/deon-andre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
